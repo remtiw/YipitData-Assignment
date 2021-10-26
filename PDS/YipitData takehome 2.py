@@ -1,4 +1,3 @@
-
 def main():
     local_oct = 0;
     travel_oct = 0;
