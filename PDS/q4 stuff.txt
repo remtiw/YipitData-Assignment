@@ -1,0 +1,40 @@
+whole set
+
+local:  409,222,657.9820464
+goods:  282,245,671.040842
+travel:  70,552,062.12449978
+
+total:  762,020,391.1473231
+
+q4 2013 deals initiated stuff
+
+local:  230,376,199.90701374
+goods:  276,264,895.5829814
+travel:  68,021,541.26699978
+
+total:  574,662,636.7569928
+
+jpm notes:
+-seasonal shifts, gmail changes affect 3q revenue (negative effect)
+-groupon acquire TicketMonster (might make investors invest, big in korea)
+
+
+Deutsche notes:
+-making a transition to mobile devices (positive trend)
+-gmail issue (negative trend)
+-seasonality (negative trend)
+-eu issues
+
+MS notes:
+Groupon focus:
+-Continuing to build a stronger pull marketplace more merchants and better merchants
+-Investing in mobile
+-Investing more inlocal - at the heart, Groupon is a local company, and the
+company has idenfied areas where it can reduce friction to Groupon redemptions
+on both the customer and merchant sides
+-Goods and travel - the company stated that it can improve selection and
+fulfillment (on the goods side)
+-Invest in the push email biz which management feels has become stale
+-Cleaning up international
+
+-Always innovating (ex. fixing stuff on email)
